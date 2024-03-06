@@ -1,12 +1,36 @@
-# Assignment 1: Website Creation
+# Student Portfolio Project
+
+Project documentation
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Project Overview](#project-overview)
+- [Deployment Link](#deployment-link)
+- [File Structure](#file-structure)
+- [Usage](#usage)
+- [New Features](#new-features)
+- [Image Attribution](#image-attributions)
+- [Contact Information](#contact-information)
 
 ## Introduction
 
-This README provides an overview of my completed Assignment 1. In this assignment, I created a responsive 3-page website as per the provided instructions.
+Welcome to my Student Portfolio Project documentation. This project showcases a basic portfolio a responsive 3-page website. Each page serves a specific purpose, presenting information about me, my hobbies, and providing a means of contact.
 
 ## Project Overview
 
-I have successfully completed all the components of the assignment, including the creation of three HTML pages, styling with CSS, adding navigation, implementing new CSS styles, and providing image attribution.
+I have successfully completed all aspects of the assignment, incorporating HTML and CSS to create a visually appealing and user-friendly website. The project includes the following components:
+
+- Homepage (`index.html`)
+- About Me Page (`about.html`)
+- Hobby Page (`topic.html`)
+- Contact Me Page (`contact.html`)
+- Stylesheet for the website (`styles.css`)
+
+## Deployment Link
+
+To view website, simply open the [index.html](https://ysrajsingh.github.io/student-portfolio/) file in a web browser. Navigate through the different pages using the provided hyperlinks.
+
 
 ## File Structure
 
@@ -16,17 +40,17 @@ I have successfully completed all the components of the assignment, including th
 -   `contact.html`: Contact Me Page
 -   `styles.css`: Stylesheet for the website
 
-## Instructions
+## Usage
 
-To view my website, simply open the `index.html` file in a web browser. You can navigate through the different pages using the provided hyperlinks.
+To view website, simply open the index.html file in a web browser. Navigate through the different pages using the provided hyperlinks.
 
-## New CSS Styles
+## New Features
 
-I have incorporated new CSS styles that I discovered independently. These styles are applied globally across all pages. I found these styles through https://www.w3schools.com/
+In addition to meeting the assignment requirements, I incorporated new CSS styles that I discovered independently. These styles are applied globally across all pages, enhancing the overall design. I found these styles through [W3Schools](https://www.w3schools.com/).
 
 ## Image Attribution
 
-All images used in this project are https://wallpaperaccess.com/, and they are commented as well.
+All images used in this project are [Wallpaper Access](https://wallpaperaccess.com/), and they are commented as well.
 
 ## Contact Information
 
